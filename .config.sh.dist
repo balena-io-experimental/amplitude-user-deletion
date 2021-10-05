@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-REQUESTER_EMAIL="YOURNAME@balena.io"
+REQUESTER_EMAIL=""
 
 # Amplitude authentication keys below
 # Staging project "Stg - Core"
