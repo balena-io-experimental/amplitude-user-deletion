@@ -1,0 +1,11 @@
+#!/usr/bin/env bash
+REQUESTER_EMAIL="YOURNAME@balena.io"
+
+# Amplitude authentication keys below
+# Staging project "Stg - Core"
+STAGING_API_KEY=""
+STAGING_SECRET_KEY=""
+
+# Production project "Prod - Core"
+PRODUCTION_API_KEY=""
+PRODUCTION_SECRET_KEY=""
