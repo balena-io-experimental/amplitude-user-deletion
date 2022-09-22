@@ -11,7 +11,7 @@ It is a good idea to make a copy of it and fill in the missing fields:
 - Your work email (for auditing purposes).
 - API and secret keys for the appropriate projects.
 
-  Those can be found in the [Projects section](https://analytics.amplitude.com/balena/settings/projects) of Amplitude settings.
+  Those can be found in the [Projects section](https://analytics.amplitude.com/balena/settings/projects) of Amplitude settings, called `Stg - Core` (staging) and `Prod - Core` (production).
 
 It should look something like the following
 ```sh
